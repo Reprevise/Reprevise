@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working with Tracker Network! (https://tracker.gg)
+- 💬 Ask me about anything Flutter related, I can help!
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I'm addicted to video games.
+
+[![Reprevise's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reprevise&count_private=true&theme=onedark&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
